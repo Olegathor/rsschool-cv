@@ -22,7 +22,7 @@ I want to be useful to the company I work for. Therefore, I work well in a team,
 - Figma (for web development)
 
 ## __Code Example__
-Task "Count characters in your string" from __CodeWars__: _The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
+Task "Count characters in your string" from __CodeWars__: _The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}. \
 What if the string is empty? Then the result should be empty object literal, {}._
 ```
 function count (string) {  
