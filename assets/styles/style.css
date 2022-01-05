@@ -1,0 +1,173 @@
+body {
+    /*display: flex;*/
+    font-size: 18px;
+}
+
+.header-main,
+.common-footer {
+    display: flex;
+}
+
+aside {
+    background-color: #333333;
+    color: #faebd7;
+
+    /*width: 22.5vw;*/
+
+    /*max-width: 828px;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: space-around;*/
+
+
+    /* || [fix-later] || Fix "height" later || - || NOTE */
+    /*height: 100vh;*/
+}
+
+main {
+    /*background-color: #7b917b;*/
+    background-color: #d3d3d3;
+    /*background-color: #DCDCDCFF;*/
+    color: #333333;
+
+    /*width: 77.5vw;*/
+
+    /* || [fix-later] || Fix "height" later || - || NOTE */
+    /*height: 100vh;*/
+}
+
+a:link {
+    color: #866f5a;
+}
+
+a:hover:active {
+    color: #deb887;
+}
+
+a:visited {
+    color: #6B6B6BFF;
+}
+
+path {
+    fill: #faebd7;
+}
+
+.aside,
+.main,
+.footer {
+    margin: 26px;
+    line-height: 24px;
+    overflow: auto;
+}
+
+.avatar {
+    width: 22.8vw;
+    height: 22.8vw;
+}
+
+.code {
+    background-color: #bdbdbd;
+    overflow: auto;
+}
+
+.header-h1 {
+    margin: 26px 26px 0 ;
+}
+
+.header-h2 {
+    margin: 0 26px;
+}
+
+footer {
+    background-color: #333333;
+    margin: 0;
+}
+
+.created-by-in {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    color: #faebd7;
+}
+
+.btn-to-start {
+    background-color: #faebd7;
+    color: #333333;
+    /*border: #333333;*/
+    margin: 26px 0 0;
+}
+
+.column-14 {
+    /*width: 17vw;*/
+    width: 17%;
+}
+
+.column-2 {
+    /*width: 23vw;*/
+    width: 23%;
+    background-color: #333333;
+}
+
+.column-23 {
+    /*width: 66vw;*/
+    width: 66%;
+}
+
+.column-3 {
+    /*width: 43vw;*/
+    width: 43%;
+}
+
+ /*  || [style-logo] || style for logo rs_school_js || - || NOTE  */
+
+ .st0 {
+     fill: #fff
+ }
+
+.st1 {
+    clip-path: url(#SVGID_2_)
+}
+
+.st2 {
+    clip-path: url(#SVGID_4_)
+}
+
+.st3 {
+    clip-path: url(#SVGID_6_)
+}
+
+.st4 {
+    clip-path: url(#SVGID_8_)
+}
+
+.st5 {
+    fill: #333333;
+    stroke: #faebd7;
+    stroke-width: 4;
+    stroke-miterlimit: 10
+}
+
+.st6 {
+    clip-path: url(#SVGID_8_)
+}
+
+.st6, .st7 {
+    fill: none;
+    stroke: #faebd7;
+    stroke-width: 4;
+    stroke-miterlimit: 10
+}
+
+.st8, .st9 {
+    clip-path: url(#SVGID_10_)
+}
+
+.st9 {
+    fill: none;
+    stroke: #faebd7;
+    stroke-width: 4;
+    stroke-miterlimit: 10
+}
