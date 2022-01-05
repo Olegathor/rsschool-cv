@@ -65,6 +65,10 @@ path {
     height: 22.8vw;
 }
 
+.li-none {
+    list-style-type: none;
+}
+
 .code {
     background-color: #bdbdbd;
     overflow: auto;
